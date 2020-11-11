@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JCSelectButton_Example' do
+  pod 'JCSelectButton', :path => '../'
+
+  target 'JCSelectButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
