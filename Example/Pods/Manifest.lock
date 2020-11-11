@@ -1,0 +1,16 @@
+PODS:
+  - JCSelectButton (0.1.0)
+
+DEPENDENCIES:
+  - JCSelectButton (from `../`)
+
+EXTERNAL SOURCES:
+  JCSelectButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JCSelectButton: ae4dec4b7cbf67632ff5ca4de8e170cec4724235
+
+PODFILE CHECKSUM: 674af184687362fe3e569dd2f7d8b0ed2a28b6df
+
+COCOAPODS: 1.9.3

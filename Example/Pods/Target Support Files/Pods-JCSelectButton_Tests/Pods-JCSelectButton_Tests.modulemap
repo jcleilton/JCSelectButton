@@ -1,0 +1,6 @@
+framework module Pods_JCSelectButton_Tests {
+  umbrella header "Pods-JCSelectButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

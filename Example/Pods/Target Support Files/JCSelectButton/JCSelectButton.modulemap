@@ -1,0 +1,6 @@
+framework module JCSelectButton {
+  umbrella header "JCSelectButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
