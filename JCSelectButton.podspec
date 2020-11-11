@@ -21,16 +21,17 @@ Pod::Spec.new do |s|
   'This is my first pod.'
   DESC
 
-  s.homepage         = 'https://github.com/jcleilton@gmail.com/JCSelectButton'
+  s.homepage         = 'https://github.com/jcleilton/JCSelectButton'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Cleilton' => 'jcleilton@gmail.com' }
-  s.source           = { :git => 'https://github.com/jcleilton@gmail.com/JCSelectButton.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://www.linkedin.com/in/jcleilton/'
+  s.source           = { :git => 'https://github.com/jcleilton/JCSelectButton.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://www.linkedin.com/in/jcleilton'
 
   s.ios.deployment_target = '11.0'
 
   s.source_files = 'src/**/*.swift'
+  
   
   # s.resource_bundles = {
   #   'JCSelectButton' => ['JCSelectButton/Assets/*.png']
